@@ -1,0 +1,3 @@
+dataset==0.6.4
+pp-ez==0.2.0
+requests==2.10.0
